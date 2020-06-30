@@ -3,8 +3,8 @@
 This program will help you pick students randomly!
 
 This can be used if you want to pick someone in:
-= Recitations
-= Group Projects
+- Recitations
+- Group Projects
 
 You are free to choose how many students to pick.
 Just add the names inside students.txt
