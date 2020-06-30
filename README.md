@@ -1,4 +1,4 @@
-# Random-Student-Picker-Program
+# Random Student Picker
 
 This program will help you pick students randomly!
 
@@ -14,6 +14,7 @@ Or you can provide your own file path
 
 Or you can just input the names of the students manually inside the console.
 
+
 ### How to run program in linux: 
 Open the terminal, go to desired path, and run the command:
 
@@ -22,6 +23,7 @@ Open the terminal, go to desired path, and run the command:
 `cd Random-Student-Picker-Program`
 
 `./student_randomizer`
+
 
 ### How to run program in windows:
 
