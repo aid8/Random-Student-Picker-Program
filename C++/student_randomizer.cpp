@@ -8,6 +8,7 @@ Author: Christian Dia
 #include<iostream>
 #include<vector>
 #include<fstream>
+#include<time.h>
 
 #ifdef _WIN32 
 #define cls system("cls"); 
